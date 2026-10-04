@@ -1,0 +1,27 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite*-wal
+*.sqlite*-shm
+*.sqlite*-journal
+*.log
+.DS_Store
+# Реальні розклади та локальні експорти з особистими даними.
+*.xls
+*.xlsx
+*.csv
+*.json
+!examples/demo_schedule.json
+*.pem
+*.key
+*.p12

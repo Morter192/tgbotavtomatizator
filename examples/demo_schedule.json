@@ -1,0 +1,10 @@
+{
+  "source": "Тестовий приклад — вигадані заняття, не розклад університету",
+  "is_demo": true,
+  "lessons": [
+    {"group": "141", "subgroup": 1, "weekday": 0, "number": 1, "subject": "Тестовий предмет: програмування", "start": "08:20", "end": "09:40", "week": 2, "building": "8", "room": "216", "location": "8-216", "teacher": "Тестовий викладач"},
+    {"group": "141", "subgroup": 1, "weekday": 0, "number": 2, "subject": "Тестовий предмет: математика", "start": "09:50", "end": "11:10", "week": 1, "building": "8", "room": "111", "location": "8-111"},
+    {"group": "141", "subgroup": null, "weekday": 2, "number": 3, "subject": "Тестова спільна лекція", "start": "11:30", "end": "12:50", "week": 0, "building": "9", "room": "3", "location": "9-3"},
+    {"group": "141", "subgroup": 1, "weekday": 4, "number": 4, "subject": "Тестове онлайн-заняття", "start": "13:00", "end": "14:20", "online": true}
+  ]
+}
